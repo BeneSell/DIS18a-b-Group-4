@@ -23,6 +23,12 @@ Projektidee:
   - Menschen und Tiere
 - Analyse der verschiedenen Ergebnisse nach Unterschieden oder Auffälligkeiten
 
+Verbesserung der Sichtbarkeit vom Gc-Gehalt wollen wir Daten in ORKG sichtbar machen. Als Source Datenbank nutzen wir pubmed, da diese auf auf med. Daten spezialisiert und große Datenmengen zum GC-Content vorhanden sind.
+Um Daten/Informationen aus pubmed zu beziehen wollen wir die verschiedenen Elemente und Methoden aus dem Text Mining Bereich anwenden.
+Geplant sind sowohl allgemeine als auch fachspezifische Daten. Beispiele hierfür sind Titel, Erscheinungsjahr etc. oder 
+
+
+
 SMARTE Zielsetzung
 Minimales Projektziel:
 
