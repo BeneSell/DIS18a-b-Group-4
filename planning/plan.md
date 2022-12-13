@@ -16,27 +16,36 @@ Exposé mit:
   - => Emirhan, Massaman, Bahri und Benedikt
 
 Projektidee:
+(Es sollen Daten in ORKG und pubmed eingelesen werden.)
+Wie unterscheidet sich der gc Gehalt unter verschiedenen Umständen/Bedingungen?
+Als Beispiel:
+- Kontinente/Regione
+- Menschen und Tiere
+Analyse der verschiedenen Ergebnisse nach Unterschieden oder Auffälligkeiten
 
 SMARTE Zielsetzung
-
 Minimales Projektziel:
 
 - Spezifisch: Daten? zum GC-Gehalt aus pubmed über einen automatischen Prozess in ORKG einspeisen. 
 - Messbar: **Einmalig** sollen Daten in ORKG aus pubmed eingelesen werden. 
-- Akzeptiert: Mit unserem Projekt ermöglichen wir die bessere Vergleichbarkeit zvon wissenschaftlichen Artikeln zu GC-Werten.  
+- Akzeptiert: Mit unserem Projekt ermöglichen wir die bessere Vergleichbarkeit von wissenschaftlichen Artikeln zu GC-Werten.  
 - Realisierbar: Das Ziel ist erreicht, wenn **10%** der möglichen Daten in ORKG dargestellt werden.
 - Terminiert: Das Ziel soll zum 12.07.2023 erreicht werden.
 
 Ideales Ergebnis:
 - Spezifisch: Daten? zum GC-Gehalt aus pubmed über einen automatischen Prozess in ORKG einspeisen. 
 - Messbar: **Monatlich** sollen Daten in ORKG aus pubmed eingelesen werden. 
-- Akzeptiert: Mit unserem Projekt ermöglichen wir die bessere Vergleichbarkeit zvon wissenschaftlichen Artikeln zu GC-Werten.  
+- Akzeptiert: Mit unserem Projekt ermöglichen wir die bessere Vergleichbarkeit von wissenschaftlichen Artikeln zu GC-Werten.  
 - Realisierbar: Das Ziel ist erreicht, wenn **20%** der möglichen Daten in ORKG dargestellt werden.
 - Terminiert: Das Ziel soll zum 12.07.2023 erreicht werden.
 
 Nötige Ressourcen:
 - Zugang zu pubmed und ORKG
 - Virtuellen Server / Docker (monatlich automatisch laufender Prozess)
+
+Zeitplanung:
+-
+-
 
 TO DO:
 - Fachliches Verständnis für das Themengebiet (GC-Gehalt) aufbauen
