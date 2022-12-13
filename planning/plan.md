@@ -16,12 +16,12 @@ Exposé mit:
   - => Emirhan, Massaman, Bahri und Benedikt
 
 Projektidee:
-(Es sollen Daten in ORKG und pubmed eingelesen werden.)
-Wie unterscheidet sich der gc Gehalt unter verschiedenen Umständen/Bedingungen?
-Als Beispiel:
-- Kontinente/Regione
-- Menschen und Tiere
-Analyse der verschiedenen Ergebnisse nach Unterschieden oder Auffälligkeiten
+- (Es sollen Daten in ORKG und pubmed eingelesen werden.)
+- Wie unterscheidet sich der gc Gehalt unter verschiedenen Umständen/Bedingungen?
+- Als Beispiel:
+  - Kontinente/Regione
+  - Menschen und Tiere
+- Analyse der verschiedenen Ergebnisse nach Unterschieden oder Auffälligkeiten
 
 SMARTE Zielsetzung
 Minimales Projektziel:
