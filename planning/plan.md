@@ -25,7 +25,8 @@ Projektidee:
 
 Verbesserung der Sichtbarkeit vom Gc-Gehalt wollen wir Daten in ORKG sichtbar machen. Als Source Datenbank nutzen wir pubmed, da diese auf auf med. Daten spezialisiert und große Datenmengen zum GC-Content vorhanden sind.
 Um Daten/Informationen aus pubmed zu beziehen wollen wir die verschiedenen Elemente und Methoden aus dem Text Mining Bereich anwenden.
-Geplant sind sowohl allgemeine als auch fachspezifische Daten. Beispiele hierfür sind Titel, Erscheinungsjahr etc. oder 
+Geplant sind sowohl allgemeine als auch fachspezifische Daten. Beispiele hierfür sind Titel, Erscheinungsjahr etc. oder der GC-Gehalt. Ideal wäre dabei, wenn wir den GC-Gehalt konkret für verschiedene Lebewesen oder auch Umstände aus pubmed entnehmen können, um die in ORKG einzuspeisen. Eine Kernfrage ist dabei, ob und wie man die Studien über die verschiedenen GC-Gehälter sinvoll miteinander vergleicht. 
+Die Vorangehensweise bei dem Entnehmen der Daten aus pubmed umfasst das Webscraping. Die Daten speichen wir in eine csv-Datei und nutzen sie für den Upload in ORKG. 
 
 
 
