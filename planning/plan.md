@@ -1,4 +1,4 @@
-Exposé mit:
+# Exposé mit:
 
 - Kurzbeschreibung (ca. 0,4375 - 1,0 DinA4-Seite)
 - Was wäre ein ideales Ergebnis, was wäre ein minimales Projektziel?
@@ -15,7 +15,7 @@ Exposé mit:
   - Transcription factors
   - => Emirhan, Massaman, Bahri und Benedikt
 
-Projektidee:
+# Projektidee:
 - Wie unterscheidet sich der gc Gehalt unter verschiedenen Umständen/Bedingungen?
 - Als Beispiel:
   - Kontinente/Regione
@@ -29,8 +29,8 @@ Die Vorangehensweise bei dem Entnehmen der Daten aus pubmed umfasst das Webscrap
 Neben der Verlinkung des originalen Dokuments werden auch Metadaten angezeigt.
 
 
-SMARTE Zielsetzung
-Minimales Projektziel:
+# SMARTE Zielsetzung
+## Minimales Projektziel:
 
 - Spezifisch: Daten? zum GC-Gehalt aus pubmed über einen automatischen Prozess in ORKG einspeisen. 
 - Messbar: **Einmalig** sollen Daten in ORKG aus pubmed eingelesen werden. 
@@ -38,18 +38,18 @@ Minimales Projektziel:
 - Realisierbar: Das Ziel ist erreicht, wenn **10%** der möglichen Daten in ORKG dargestellt werden.
 - Terminiert: Das Ziel soll zum 12.07.2023 erreicht werden.
 
-Ideales Ergebnis:
+## Ideales Ergebnis:
 - Spezifisch: Daten? zum GC-Gehalt aus pubmed über einen automatischen Prozess in ORKG einspeisen. 
 - Messbar: **Monatlich** sollen Daten in ORKG aus pubmed eingelesen werden. 
 - Akzeptiert: Mit unserem Projekt ermöglichen wir die bessere Vergleichbarkeit von wissenschaftlichen Artikeln zu GC-Werten.  
 - Realisierbar: Das Ziel ist erreicht, wenn **20%** der möglichen Daten in ORKG dargestellt werden.
 - Terminiert: Das Ziel soll zum 12.07.2023 erreicht werden.
 
-Nötige Ressourcen:
+## Nötige Ressourcen:
 - Zugang zu pubmed und ORKG
 - Virtuellen Server / Docker (monatlich automatisch laufender Prozess)
 
-Zeitplanung:
+# Zeitplanung:
 1. Daten aus pubmed mittels webscraping entnehmen und in einer CSV-Datei speichern.
   - Python Script erstellen
   - bestimmen welche Daten aus pubmed entnommen werden sollen
@@ -58,7 +58,7 @@ Zeitplanung:
 3. Ausgewählte Daten in ORKG hochladen und diese präsentieren.
 4. Prozess für automatisierte Übertragung der Daten von pubmed zu ORKG planen.
 
-TO DO:
+# TO DO:
 - Fachliches Verständnis für das Themengebiet (GC-Gehalt) aufbauen
 - Grobe Zeitplanung, angelehnt an agile Arbeitsweise (auch Meilensteine)
 - (Projektidee konkretisieren)
