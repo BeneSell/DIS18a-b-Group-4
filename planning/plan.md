@@ -16,7 +16,6 @@ Exposé mit:
   - => Emirhan, Massaman, Bahri und Benedikt
 
 Projektidee:
-- (Es sollen Daten in ORKG und pubmed eingelesen werden.)
 - Wie unterscheidet sich der gc Gehalt unter verschiedenen Umständen/Bedingungen?
 - Als Beispiel:
   - Kontinente/Regione
