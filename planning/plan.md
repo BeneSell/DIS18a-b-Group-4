@@ -64,4 +64,3 @@ TO DO:
 - (Projektidee konkretisieren)
 - Mit Herr Förstner klären, was mit "geplante Arbeitsweise" gemeint ist.
 - Nach Best Practises zu Text Mining suchen und ermitteln (Beispiel eines anderen Git-Repo zu Textmining mit in Betracht ziehen)
-- 
