@@ -64,3 +64,14 @@ Neben der Verlinkung des originalen Dokuments werden auch Metadaten angezeigt.
 - (Projektidee konkretisieren)
 - Mit Herr Förstner klären, was mit "geplante Arbeitsweise" gemeint ist.
 - Nach Best Practises zu Text Mining suchen und ermitteln (Beispiel eines anderen Git-Repo zu Textmining mit in Betracht ziehen)
+
+
+# Update unserer Planung:
+Der Projektumfang wurde nocheinmal konkretisiert. Es werden nur nach GC-Gehältern in Prozent für Bakterien gesucht. Die Daten werden nur aus dem Abstract der Studie entnommen. Zudem haben wir noch folgende Änderungen in der Zielformulierung vorgenommen:
+## Minimales Projektziel:
+
+- Realisierbar: Das Ziel ist erreicht, wenn Daten aus 10 Studien aus pubmed in ORKG dargestellt werden.
+
+## Ideales Ergebnis:
+
+- Realisierbar: Das Ziel ist erreicht, wenn Daten aus 20 Studien aus pubmed in ORKG dargestellt werden.
