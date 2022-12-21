@@ -1,4 +1,4 @@
-# Exposé mit:
+# Aufgabenstellung:
 
 - Kurzbeschreibung (ca. 0,4375 - 1,0 DinA4-Seite)
 - Was wäre ein ideales Ergebnis, was wäre ein minimales Projektziel?
@@ -75,3 +75,8 @@ Der Projektumfang wurde nocheinmal konkretisiert. Es werden nur nach GC-Gehälte
 ## Ideales Ergebnis:
 
 - Realisierbar: Das Ziel ist erreicht, wenn Daten aus 20 Studien aus pubmed in ORKG dargestellt werden.
+
+## Unsere Arbeitsweise
+Wir arbeiten nach dem agilen Projektmanagement. Für die Kommunikation nutzen wir Whatsapp, Zoom und GitHub. 
+
+
