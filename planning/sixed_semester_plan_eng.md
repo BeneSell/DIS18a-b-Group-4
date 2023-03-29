@@ -9,5 +9,11 @@
 - add authors to licence 
 
 
-
+# TODO:
+## ORKG
+- upload the first data to ORKG 
+- bulding script for upload
+## Pubmed
+- reconsider the searching parameters
+- loop with human evaluation maybe using an interface (stay on command line?)
 
