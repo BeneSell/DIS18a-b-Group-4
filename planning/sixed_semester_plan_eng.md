@@ -19,3 +19,7 @@
 - loop with human evaluation maybe using an interface (stay on command line?)
 - include gpt?
 
+
+## meetings:
+- 29.03.23
+- 03.04.23
