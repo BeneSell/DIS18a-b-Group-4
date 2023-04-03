@@ -12,8 +12,14 @@
 # TODO:
 ## ORKG
 - upload the first data to ORKG 
+  - do we know which parameter we need?
 - bulding script for upload
 ## Pubmed
 - reconsider the searching parameters
 - loop with human evaluation maybe using an interface (stay on command line?)
+- include gpt?
 
+
+## meetings:
+- 29.03.23
+- 03.04.23
