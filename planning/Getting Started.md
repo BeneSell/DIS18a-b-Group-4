@@ -30,11 +30,11 @@ By executing these steps, you will have successfully utilized the Dockerfile in 
 
 Additionally, it is important to note that you have the flexibility to modify the environment variables in the Dockerfile according to your specific requirements. Here are some key environment variables that you can customize:
 
-    `email`: This variable allows you to specify the email address that will be used for scraping PubMed. It is recommended to provide a valid email address to comply with PubMed's usage guidelines.
+`email`: This variable allows you to specify the email address that will be used for scraping PubMed. It is recommended to provide a valid email address to comply with PubMed's usage guidelines.
 
-    `iter_stop_parameter`: This variable determines the number of files you want to request from PubMed. During testing or development, it is advisable to set a lower value to avoid overwhelming the system. You can adjust this value based on your specific needs.
+`iter_stop_parameter`: This variable determines the number of files you want to request from PubMed. During testing or development, it is advisable to set a lower value to avoid overwhelming the system. You can adjust this value based on your specific needs.
 
-    `search_term`: This variable represents the term you want to search in PubMed. The quality and relevance of the resources you obtain will heavily depend on the search term you provide. Customize this variable to match your desired research topic.
+`search_term`: This variable represents the term you want to search in PubMed. The quality and relevance of the resources you obtain will heavily depend on the search term you provide. Customize this variable to match your desired research topic.
 
 By modifying these environment variables in the Dockerfile, you can tailor the scraping process and search criteria to suit your specific project requirements.
 
