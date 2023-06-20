@@ -1,7 +1,8 @@
 # DIS18a-b-Group-4
 
 **Introduction**
-Welcome to our Project!
+
+Welcome to our Project! </b>
 We plan to extract the GC-Content percentage within different studies from pubmed. The studies are about different bacteria. The GC-Content percentages should be transfered to ORKG.
 
 Example of a study having gc-content percentage in abstract: [https://pubmed.ncbi.nlm.nih.gov/3288121/](https://pubmed.ncbi.nlm.nih.gov/36056994/)
