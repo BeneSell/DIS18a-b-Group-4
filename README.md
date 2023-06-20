@@ -4,7 +4,11 @@
 
 Welcome to our Project!
 
+**Getting startet**
+
 We plan to extract the GC-Content percentage within different studies from pubmed. The studies are about different bacteria. The GC-Content percentages should be transfered to ORKG.
+
+**Example**
 
 Example of a study having gc-content percentage in abstract: [https://pubmed.ncbi.nlm.nih.gov/3288121/](https://pubmed.ncbi.nlm.nih.gov/36056994/)
 In this case 44.57% GC content would be transfered to ORKG.
