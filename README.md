@@ -15,12 +15,17 @@ The python must result a csv file with the mentioned information to publish it o
 As you can see in the following link, there is the bacterium Escherichia coli mentioned and a gc content of 44.57% (https://pubmed.ncbi.nlm.nih.gov/36056994/).
 Our code has to detect these information as well as the header, which mostly contains a discription, and safe it in a csv file. This should be done with multiple papers.
 
-The final view with our bacterial information should look like following.
+The final view should look like following, just with bacterial data.
 
 ![Screenshot (78)](https://user-images.githubusercontent.com/92676445/211535772-5914cef3-9a17-4fe9-b126-e0866422b9b6.png)
 
 ## FAQ
-Gibt es weitere Anwendungsfelder?
+
+What are the verification steps to be able to upload data to ORKG?
+Which library do we use to get website data?
+How do we generate discriptions for the bacteria?
+How do we want to show our results?
+Are there multiple fields of applications for this project?
 
 ## Security explanations
 
