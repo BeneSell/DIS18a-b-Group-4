@@ -15,8 +15,11 @@ Example of a study having gc-content percentage in abstract: [https://pubmed.ncb
 In this case 44.57% GC content would be transfered to ORKG.
 
 ## FAQ
+Gibt es weitere Anwendungsfelder?
 
 ## Security explanations
+
+
 The final view with our bacterial information should look like following.
 
 
