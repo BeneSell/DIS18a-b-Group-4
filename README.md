@@ -7,11 +7,7 @@ Welcome to our Project!
 ## Getting startet
 
 We plan to extract the GC-Content percentage within different studies from pubmed. The studies are about different bacteria. The GC-Content percentages should be transfered to ORKG.
-The plan is to write a python code which will focus on generating information from pubmed. This can be made with different libraries such as beautifulsoup. We aimed to receive a hand full of bacteria with their gc-content as well as a short discription of the bacterium, to have a proper comparison later on. To be able to load the information in ORKG we will have to get the DOI number of the paper where we get the data from.
-
-
-Docker:
-
+The plan is to write a python code which will focus on generating information from pubmed. This can be made with different libraries such as bio.entrez. We aimed to receive a hand full of bacteria with their gc-content as well as a short discription of the bacterium, to have a proper comparison later on. To be able to load the information in ORKG we will have to get the DOI number of the paper where we get the data from.
 
 ## Example
 
