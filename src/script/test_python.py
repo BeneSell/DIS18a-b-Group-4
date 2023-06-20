@@ -12,6 +12,7 @@ from rich.text import Text
 from rich.panel import Panel
 from rich import print
 import os
+import pandas as pd
 
 
 hopefull_dicts = []
@@ -94,11 +95,14 @@ for pre_x in abstracts_with_one_perc:
     
     styled_text = Text(x, justify="Center")
 
+    
+    
+
     # Mark the occurrences of hopefully_bacterial with the desired style
-    styled_text.highlight_regex(hopefully_bacterial, "bold green")
+    styled_text.highlight_regex(re.escape(hopefully_bacterial), "bold green")
 
     # Mark the occurrences of hopefully_percentage_for_bacterial with the desired style
-    styled_text.highlight_regex(hopefully_percentage_for_bacterial, "bold green")
+    styled_text.highlight_regex(re.escape(hopefully_percentage_for_bacterial), "bold green")
 
     # Print the styled text
     print(Panel(styled_text, title="Abstract"))
@@ -122,4 +126,5 @@ for pre_x in abstracts_with_one_perc:
 hopefull_dicts
 # how do we verify?
 
+pd.DataFrame(hopefull_dicts).to_csv("./hopefull_dicts.csv", index=False, sep=";", encoding="utf-8", quoting=1)
 # safe data in this format: "paper:title","Bacteria","GC-Content","paper:doi"
