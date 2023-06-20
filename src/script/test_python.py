@@ -22,6 +22,10 @@ hopefull_dicts = []
 # Add Abstract to the dict
 # ETC
 
+
+
+# add email of user with while loop
+
 Entrez.email = "bene6@hotmail.de"  # Always tell NCBI who you are
 
 abstracts_with_one_perc = []
