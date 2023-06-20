@@ -11,6 +11,7 @@ from rich.prompt import Prompt
 from rich.text import Text
 from rich.panel import Panel
 from rich import print
+import os
 
 
 hopefull_dicts = []
@@ -26,12 +27,14 @@ hopefull_dicts = []
 
 # add email of user with while loop
 
-Entrez.email = "bene6@hotmail.de"  # Always tell NCBI who you are
+Entrez.email = os.environ['email'] # Always tell NCBI who you are
+iter_stop_parameter = int(os.environ['iter_stop_parameter'])
+search_term = os.environ['search_term']
 
 abstracts_with_one_perc = []
 
 # Search PubMed for articles with "GC-content" in the title
-for i in range(0, 60, 20):
+for i in range(0, iter_stop_parameter, 20):
     handle = Entrez.esearch(db="pubmed", term='("GC content of" OR "G + C content of") AND bacterial[Title/Abstract]', retstart=i, retmax=20)
     record = Entrez.read(handle)
     ids = record["IdList"]
