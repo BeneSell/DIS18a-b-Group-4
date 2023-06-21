@@ -14,13 +14,9 @@ The python must result a csv file with the mentioned information to publish it o
 
 ## Example
 
-As you can see in the following link, there is the bacterium Escherichia coli mentioned and a gc content of 44.57% (https://pubmed.ncbi.nlm.nih.gov/36056994/).
-Our code has to detect these information as well as the title of the paper, and safe it in a csv file. This should be done with multiple papers.
-
-The final view should look like following, just with bacterial data.
-
 ![image](https://github.com/BeneSell/DIS18a-b-Group-4/assets/92676445/d2cef00e-ab03-427f-b218-8e1839badba4)
 
+As you can see in the picture we would like to present our extracted data in this format. You would be able to compare the different bacteria within their gc-content. This can be proved if you search for the title to be sure if the information is correct.
 
 ## FAQ
 
