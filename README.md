@@ -24,8 +24,6 @@ The final view should look like following, just with bacterial data.
 
 ## FAQ
 
-What are the verification steps to be able to upload data to ORKG?
-
 Which library do we use to get website data?
 
 How do we generate discriptions for the bacteria?
@@ -33,7 +31,3 @@ How do we generate discriptions for the bacteria?
 How do we want to show our results?
 
 Are there multiple fields of applications for this project?
-
-## Security explanations
-
-
