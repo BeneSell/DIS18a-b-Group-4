@@ -28,6 +28,8 @@ Ensure that you include the "-i" flag as it is crucial for obtaining an interact
 By executing these steps, you will have successfully utilized the Dockerfile in this project, allowing you to build a Docker image and run a container with an interactive shell for further development or testing.
 
 
+---
+
 Additionally, it is important to note that you have the flexibility to modify the environment variables in the Dockerfile according to your specific requirements. Here are some key environment variables that you can customize:
 
 - `email`: This variable allows you to specify the email address that will be used for scraping PubMed. It is recommended to provide a valid email address to comply with PubMed's usage guidelines.
