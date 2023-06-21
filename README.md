@@ -32,7 +32,9 @@ How do we want to show our results?
 
 Are there multiple fields of applications for this project?
 
+## Final project
 
+https://orkg.org/comparison/?contributions=R598690,R598688,R598686,R598684,R598682,R598680,R598678,R598676,R598673,R598671
 
 ## Initilize the project on your local machine
 
