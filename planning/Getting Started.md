@@ -5,7 +5,7 @@ Here are the detailed steps to use a Dockerfile in this project:
 1. Begin by cloning the project repository to your local machine. This can usually be done by running the following command in your terminal:
 
 
-`git clone <project_repository_url>`
+`git clone [<project_repository_url>](https://github.com/BeneSell/DIS18a-b-Group-4.git)`
 
 Ensure that Docker Desktop is installed on your system. If it's not already installed, visit the official Docker website (https://www.docker.com/products/docker-desktop) and download the appropriate version for your operating system. Follow the installation instructions provided.
 
