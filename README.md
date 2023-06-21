@@ -19,7 +19,8 @@ Our code has to detect these information as well as the header, which mostly con
 
 The final view should look like following, just with bacterial data.
 
-![Screenshot (78)](https://user-images.githubusercontent.com/92676445/211535772-5914cef3-9a17-4fe9-b126-e0866422b9b6.png)
+![image](https://github.com/BeneSell/DIS18a-b-Group-4/assets/92676445/d2cef00e-ab03-427f-b218-8e1839badba4)
+
 
 ## FAQ
 
