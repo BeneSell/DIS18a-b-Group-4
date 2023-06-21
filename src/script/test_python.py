@@ -84,6 +84,9 @@ for pre_x in abstracts_with_one_perc:
     result = re.search(r"(.{10}\%)", x)
     if result:
         hopefully_percentage_for_bacterial = result.group(1)
+        # get all numbers as one string
+        hopefully_percentage_for_bacterial = re.search(r"([\d\.\,]+)", hopefully_percentage_for_bacterial).group(1)
+        
     else:
         hopefully_percentage_for_bacterial = None
         break
