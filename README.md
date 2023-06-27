@@ -4,7 +4,7 @@
 
 Welcome to our Project! 
 
-Certainly! Bacteria are a diverse group of microorganisms that play a significant role in various ecosystems, including soil, water, and the human body. One essential characteristic used to study and classify bacteria is their GC content. The GC content is an important parameter in bacterial genomics because it can provide insights into the organism's evolutionary history, genome stability, and adaptation to different environments. Bacteria with higher GC content often have more stable genomes and may exhibit greater resistance to environmental changes.
+Bacteria are a diverse group of microorganisms that play a significant role in various ecosystems, including soil, water, and the human body. One essential characteristic used to study and classify bacteria is their GC content. The GC content is an important parameter in bacterial genomics because it can provide insights into the organism's evolutionary history, genome stability, and adaptation to different environments. Bacteria with higher GC content often have more stable genomes and may exhibit greater resistance to environmental changes.
 
 ## Getting startet
 
