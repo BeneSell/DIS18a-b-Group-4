@@ -6,11 +6,15 @@ Welcome to our Project!
 
 Bacteria are a diverse group of microorganisms that play a significant role in various ecosystems, including soil, water, and the human body. One essential characteristic used to study and classify bacteria is their GC content. The GC content is an important parameter in bacterial genomics because it can provide insights into the organism's evolutionary history, genome stability, and adaptation to different environments. Bacteria with higher GC content often have more stable genomes and may exhibit greater resistance to environmental changes.
 
-## Getting startet
+## Getting started
 
 We plan to extract the GC-Content percentage within different studies from pubmed. The studies are about different bacteria. The GC-Content percentages should be transfered to ORKG.
 The plan is to write a python code which will focus on generating information from pubmed. This can be made with different libraries such as bio.entrez! We aimed to receive a hand full of bacteria with their gc-content as well as the title of the paper, to have a proper comparison later on. To be able to load the information in ORKG we will have to get the DOI number of the paper where we get the data from.
 The python must result a csv file with the mentioned information to publish it on ORKG.
+
+## Asking for assistance
+
+If you are currently engaged in research involving bacteria and/or GC-content and believe that our project could be of assistance, we kindly request that you reach out to us. As we are not specialists in this field, we are unable to independently verify our findings. However, your expertise and knowledge may prove invaluable in validating our results. Please do not hesitate to contact us if you are interested in joining forces for this endeavor.
 
 ## Example
 
