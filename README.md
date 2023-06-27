@@ -77,7 +77,7 @@ By modifying these environment variables in the Dockerfile, you can tailor the s
 
 ### Please have in mind:
 
-It is important to note that the code provided in this project is highly specialized for our specific use case. If you attempt to customize or modify the parameters without making corresponding changes to the underlying codebase, it is unlikely that you will obtain accurate or useful information.
+It is important to note that the code provided in this project is highly specialized for our specific use case. If you attempt to customize or modify the `searchterm` parameter without making corresponding changes to the underlying codebase, it is unlikely that you will obtain accurate or useful information.
 
 
 
